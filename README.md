@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eshwari Borade</h1>
-<h3 align="center">Computer Engineering Student | Open Source Contributor (GSSoC '26)</h3>
-
-<p align="center">
-💻 Tech Enthusiast | 📊 Problem Solver | 🚀 Open Source Contributor
-</p>
+<h3 align="center">Computer Engineering Student | Aspiring Software Developer
 
 ---
 
@@ -14,7 +10,6 @@
 ### 👩‍💻 About Me
 - 🎓 Pre-final year Computer Engineering student  
 - 💡 Interested in building impactful and scalable tech solutions  
-- 🌍 Contributor at GirlScript Summer of Code 2026  
 - 🚀 Actively exploring internship opportunities  
 
 ---
@@ -55,7 +50,6 @@ I enjoy solving logical problems and optimizing solutions 🚀
 
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -66,6 +60,6 @@ I enjoy solving logical problems and optimizing solutions 🚀
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EshwariBorade29&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwariBorade29" />
 </p>
