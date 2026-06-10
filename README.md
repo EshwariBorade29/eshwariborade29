@@ -57,9 +57,3 @@ I enjoy solving logical problems and optimizing solutions 🚀
 - 💼 LinkedIn: https://www.linkedin.com/in/eshwari-borade-340524292/  
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EshwariBorade29&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwariBorade29" />
-</p>
